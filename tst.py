@@ -1,0 +1,2 @@
+a = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+print(a[:-10], a[-8:])
